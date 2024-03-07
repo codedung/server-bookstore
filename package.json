@@ -1,0 +1,25 @@
+{
+  "name": "project-bookstore-server",
+  "version": "1.0.0",
+  "description": "programmers project bookstore server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedung/server-bookstore.git"
+  },
+  "author": "코드둥",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedung/server-bookstore/issues"
+  },
+  "homepage": "https://github.com/codedung/server-bookstore#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
